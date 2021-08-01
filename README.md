@@ -61,12 +61,27 @@ You need 2 backline characters: 2 mages or mage + ADC
 If you have two mages you need extra support with a vanguard tank
 If you have the standard mage + adc, have a diver on the team, then a melee.
 
+ML Results v2:
+Priority 1: Vanguard/catcher/warden
+  If not, then get a vanguard preferrably
+
+Priority 2: A mage
+  If no mage, then get one
+
+Priority 3: 2 Melee/diver/juggernauts
+  A diver first, then melee
+
+Priority 4: An ADC
 
 
 
 
-
-If I divide roles into ADC, Mage/assassin, catcher/enchanter/warden, diver/fighter, other.  What are the common counts?
+OVERALL INSIGHTS:
+RECAP:
+2 Carries: Mage > ADC (At least one mage)
+1 Tank - Vanguard > Warden > Catcher; preferrably a vanguard (Like Malphite top, Amumu jungle, Leona or Alistar support)
+2 Fighters (Diver > Melee > Juggernaut)
+(Try to avoid enchanters, battlemages, and assassins)
 
 
 
