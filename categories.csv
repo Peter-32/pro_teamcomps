@@ -38,7 +38,6 @@ class,champion
 6,Syndra
 6,Brand
 6,Veigar
-6,Lux
 6,Zoe
 6,Neeko
 6,Annie
@@ -48,9 +47,7 @@ class,champion
 6,Ahri
 6,Seraphine
 8,Bard
-8,Pyke
 8,Jhin
-8,Neeko
 8,Blitzcrank
 8,Rakan
 8,Thresh
@@ -66,9 +63,7 @@ class,champion
 2,Skarner
 2,Vi
 2,Rek'Sai
-2,Diana
 2,Elise
-2,Rengar
 2,Xin_Zhao
 2,Renekton
 2,Wukong
@@ -78,11 +73,9 @@ class,champion
 4,Soraka
 4,Yuumi
 4,Senna
-4,Karma
 4,Sona
 4,Nami
 4,Taric
-4,Seraphine
 4,Janna
 3,Darius
 3,Sett
@@ -98,7 +91,6 @@ class,champion
 3,Volibear
 3,Mordekaiser
 3,Garen
-5,Jhin
 5,Akshan
 5,Caitlyn
 5,Kai'Sa
@@ -108,8 +100,6 @@ class,champion
 5,Kog'Maw
 5,Jinx
 5,Miss_Fortune
-5,Varus
-5,Senna
 5,Lucian
 5,Kalista
 5,Aphelios
@@ -121,8 +111,6 @@ class,champion
 5,Samira
 5,Sivir
 5,Draven
-9,Yone
-9,Sylas
 9,Viego
 9,Jax
 9,Master_Yi
@@ -167,4 +155,3 @@ class,champion
 7,Shen
 7,Tahm_Kench
 7,Galio
-7,Taric
