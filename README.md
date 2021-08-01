@@ -9,3 +9,7 @@ Ask questions like how many front/mid/backliners are most common?
 Ask which roles are most popular?
 
 Which duo of roles are most popular?
+
+
+Also to start, use this site for the exact lookup dictionary:
+https://leagueoflegends.fandom.com/wiki/Category:Champions_by_class
