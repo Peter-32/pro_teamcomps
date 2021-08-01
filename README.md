@@ -1,6 +1,10 @@
-Idea:
+Check this site for categories: https://leagueoflegends.fandom.com/wiki/Category:Vanguard_champion
+Check this site for a bit of help understanding a champion: https://www.lolsolved.gg/
+Use this site for pro data: https://gol.gg/esports/home/
 
-Scrape this website near the word >picks< and get the 5 champs chosen on each side
+The idea:
+
+Scrape this website near the word ">picks<" and get the 5 champs chosen on each side
 
 Have a lookup for any given champion, what their role is (classified into 11 roles by main role).
 
@@ -72,8 +76,6 @@ Priority 3: 2 Melee/diver/juggernauts
   A diver first, then melee
 
 Priority 4: An ADC
-
-
 
 
 OVERALL INSIGHTS:
